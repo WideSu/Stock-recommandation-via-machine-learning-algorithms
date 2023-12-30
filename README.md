@@ -1,5 +1,5 @@
 # Stock recommandation via machine learning algorithms
-An stock recommendation application which utilized supervised machine learning models such as Logistic Regression, Random Forest, and Support Vector Machine to predict the stock’s 60 days’ return rate. If a specific stock outperformed the average return rate, the model would recommend holding the position.
+An stock investment assistant tool which utilized supervised machine learning models such as Logistic Regression, Random Forest, and Support Vector Machine to predict the stock’s 60 days’ return rate. If a specific stock outperformed the average return rate, the model would recommend to hold.
 
 # Tools
 - [Sklearn](https://scikit-learn.org/stable/)
